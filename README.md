@@ -1,0 +1,1 @@
+![Tests](https://github.com/Olivinskijt/olivinskyipppi/actions/workflows/tests.yml/badge.svg)
